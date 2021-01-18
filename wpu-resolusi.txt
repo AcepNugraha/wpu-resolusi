@@ -2,5 +2,5 @@ WPU Resolusi
 - Konsisten Belajar Web Programing
 - Membuat Program latihan
 - Memperasah Logika atau Algoritma
-- Membuat Program Hello World
 - Kolaborasi dengan banyak expert
+- Membuat bukti fisik
